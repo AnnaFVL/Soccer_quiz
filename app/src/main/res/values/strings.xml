@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Учим таблицу умножения!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="one_more_time">Еще разок?</string>
+    <string name="goal">Все верно! Ты молодец!</string>
+    <string name="miss">Увы :( Давай еще поучим!</string>
+    <string name="pass">Ответить</string>
+    <string name="lets_play">Давай играть!</string>
+    <string name="ball_feature">Таблица умножения</string>
+    <string name="rules">Правила игры</string>
+    <string name="rules_text">Нужно дать 5 правильных ответов подряд</string>
+</resources>
